@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently developing checklist App using MongoDB and express for server and react for front. 
-🌱 I’m currently learning .. MongoDB / Express.js / React.js / Spring Boot
-📫 How to reach me: lucy74310@gmail.com
+🔭 I’m currently developing checklist App using MongoDB and express for server and react for front.  
+🌱 I’m currently learning .. MongoDB / Express.js / React.js / Spring Boot  
+📫 How to reach me: lucy74310@gmail.com  
 
 
 <!--
