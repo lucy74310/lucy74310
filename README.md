@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm lucy, Bugwang Jo in korean name. 
-I've been working on web backend developer for two and a half years.
+I've been working on backend developer for two and a half years.
 
 🔭 I’m currently developing checklist App using MongoDB and express for backend api and react-native for front.  
 🌱 I’m currently studying spring boot too.  
